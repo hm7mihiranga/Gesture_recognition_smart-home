@@ -12,7 +12,7 @@ This project enables hand gesture recognition using a Raspberry Pi, a camera mod
 ---
 
 ## Recognized Gestures
-![Recognized Gestures](actions.png)
+![Recognized Gestures](Actions.png)
 
 | Gesture               | Action                   |
 |-----------------------|--------------------------|
